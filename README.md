@@ -44,6 +44,9 @@ Features:
 
 OUTPUT:
 
+<img width="292" height="148" alt="Image" src="https://github.com/user-attachments/assets/adec8a38-af11-4900-b374-8b2ea7977ea0" />
+
+
 AUTHOR:
 
 https://github.com/bhaskarpallavi241-oss
